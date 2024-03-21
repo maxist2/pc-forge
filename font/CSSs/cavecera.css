@@ -1,0 +1,25 @@
+.cabecera{
+    background-color: black;
+    color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.menu-barra{
+    background-color: rgb(3, 66, 66);
+      width: auto;
+      margin-top: auto;
+      margin-bottom: auto;
+      margin-right: 3vh;
+}
+a{
+    .menu-item {
+        color: white;
+        text-decoration: none;
+        padding: 10px;
+      }
+
+      .menu-item:hover {
+        background-color: #333;
+      }
+}
