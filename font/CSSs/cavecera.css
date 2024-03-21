@@ -12,9 +12,7 @@
       margin-bottom: auto;
       margin-right: 3vh;
 }
-    .menu-item::first-letter {
-        color: #d18109;
-    }
+
     .menu-item {
         color: white;
         text-decoration: none;
